@@ -3,6 +3,7 @@ import { Mitra, Navbar } from './components'
 import Hero from './components/Hero'
 import "./App.css"
 import Service from './components/Service'
+import About from './components/About'
 
 const App = () => {
   return (
@@ -11,6 +12,7 @@ const App = () => {
       <Hero />
       <Mitra />
       <Service />
+      <About />
     </div>
   )
 }
