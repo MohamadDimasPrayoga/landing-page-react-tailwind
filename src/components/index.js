@@ -1,4 +1,6 @@
 import Navbar from "./Navbar";
+import Hero from "./Hero";
+import Mitra from "./Mitra"
 
 
-export {Navbar};
+export {Navbar, Hero, Mitra};

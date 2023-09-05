@@ -7,7 +7,7 @@ const Navbar = () => {
     const handleClick = () => setToggle(!toggle)
   return (
     <div className="w-full h-[80px] bg-white border-b">
-      <div className="md:max-w-[1100px] max-w-[550px] p-4 m-auto w-full h-full flex justify-between items-center">
+      <div className="md:max-w-[1100px] max-w-[600px] p-4 m-auto w-full h-full flex justify-between items-center">
         <img src={logo} className="h-[35px]" />
 
         <div className="hidden md:flex items-center">
