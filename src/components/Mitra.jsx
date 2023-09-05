@@ -9,7 +9,7 @@ const Mitra = () => {
       <div className="md:max-w-[1200px] m-auto max-w-[600px] p-4">
         <h1 className="text-center text-3xl font-bold ">Our Partners</h1>
         <p className="text-center  text-xl">Lorem ipsum dolor, sit amet consectetur adipisicing elit</p>
-
+        
         <div className="max-w-[1200px] flex flex-wrap justify-center gap-4 py-5">
             <img src={Mitra1} className="w-[40%] md:w-[148px]"/>
             <img src= {Mitra2} className="w-[40%] md:w-[148px]"/>
