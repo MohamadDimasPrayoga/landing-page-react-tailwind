@@ -4,6 +4,8 @@ import Hero from './components/Hero'
 import "./App.css"
 import Service from './components/Service'
 import About from './components/About'
+import Cta from './components/Cta'
+import Footer from './components/Footer'
 
 const App = () => {
   return (
@@ -14,6 +16,8 @@ const App = () => {
       <Service />
       <About />
       <Feedback />
+      <Cta />
+      <Footer />
     </div>
   )
 }
